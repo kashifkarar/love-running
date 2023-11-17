@@ -21,7 +21,7 @@ body {
 /* Header */
 header {
     background-color: #ffffff;
-    padding:0 1rem;
+    padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
@@ -32,12 +32,12 @@ header a {
     text-decoration: none;
     color: inherit;
 }
-h1 {
 
+h1 {
     font-family: 'Oswald', sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
-    color: #252525
+    color: #252525;
 }
 
 #menu {
@@ -46,7 +46,7 @@ h1 {
     list-style-type: none;
 }
 
-#menu > li {
+#menu>li {
     margin-bottom: 1em;
 }
 
